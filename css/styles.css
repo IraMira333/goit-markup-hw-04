@@ -29,8 +29,8 @@
  --team-social: #4d5ae5;
  --customer-border: #8e8f99;
  --customer-hover: #404bbf;
- --footer-social-bgc: rgba(255, 255, 255, 0.1);;
- --footer-social-bgc-hover: #31D0AA;
+ --footer-social-bgc: rgba(255, 255, 255, 0.1);
+ --footer-social-bgc-hover: #31d0aa;
 }
 
 body {
@@ -405,7 +405,7 @@ body {
  display: flex;
 }
 .footer-first-box {
-    margin-right: 120px;
+ margin-right: 120px;
 }
 .footer-text {
  width: 264px;
